@@ -1,0 +1,10 @@
+body{
+	background-color:#f4f266; 
+	color:black;
+}
+.links a{
+	color:white;
+}
+.links::hover{
+	color:#595958;
+}
